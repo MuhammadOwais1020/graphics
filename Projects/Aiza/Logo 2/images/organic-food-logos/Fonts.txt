@@ -1,0 +1,21 @@
+Fonts used in this design:
+
+Font: Alegreya
+Author: Juan Pablo del Peral
+Url: http://www.fontsquirrel.com/fonts/alegreya
+
+Font: Alegreya Sans
+Author: Juan Pablo del Peral
+Url: http://www.fontsquirrel.com/fonts/alegreya-sans
+
+Font: Alex Brush
+Author: TypeSETit
+Url: http://www.fontsquirrel.com/fonts/alex-brush
+
+Font: Amatic
+Author: Vernon Adams
+Url: http://www.fontsquirrel.com/fonts/amatic
+
+Font: Nexa Rust
+Author: Fontfabric
+Url: http://www.fontsquirrel.com/fonts/nexa-rust
